@@ -48,7 +48,7 @@ a:hover {
   color: #EAF6F6;
 }
 .newbie{
-text-decoration: strikethrough;
+text-decoration: line-through;
 }
 .top-container {
   background-color: #E4F9F5;
